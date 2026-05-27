@@ -1,0 +1,17 @@
+{
+  "name": "joy-imgur-upload",
+  "version": "1.0.0",
+  "description": "Joy Imgur Upload Package",
+  "main": "index.js",
+  "keywords": [
+    "joy",
+    "imgur",
+    "upload"
+  ],
+  "author": "Joy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "form-data": "^4.0.0"
+  }
+}
